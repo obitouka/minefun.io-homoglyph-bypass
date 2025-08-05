@@ -1,7 +1,7 @@
 # Homoglyph Chat Filter Bypass – Responsible Disclosure (MineFun.io)
 ![Topic](https://img.shields.io/badge/Topic-Bug_Bounty-ff0004?style=plastic)
-![Chat Filter Bypass](https://img.shields.io/badge/Type-Chat_Filter_Bypass-blue?style=plastic)
-![Homoglyph Attack](https://img.shields.io/badge/Technique-Homoglyph-9300FF?style=plastic)
+![Type](https://img.shields.io/badge/Type-Chat_Filter_Bypass-blue?style=plastic)
+![Method](https://img.shields.io/badge/Method-Homoglyph-9300FF?style=plastic)
 ![Target](https://img.shields.io/badge/Target-MineFun.io-D3FF00?style=plastic)
 
 
