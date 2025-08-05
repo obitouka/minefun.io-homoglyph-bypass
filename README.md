@@ -29,6 +29,6 @@ The issue was responsibly reported on **August 5, 2025** in MineFun.io’s offic
 
 - 🧾 **Public Report Thread:**  
   https://discord.com/channels/1242473396818935859/1402164667966558310/1402171100846227577
-
-- 🏆 **Rewarded:** 300 minebucks  
+  
+- 🏆 **Rewarded:** 300 Minebucks (≈ ₹500 as per the game's market value)  
   ([Severity: Critical](https://discord.com/channels/1242473396818935859/1319321791965040723/1319323191981637652))
