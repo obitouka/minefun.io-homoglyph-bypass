@@ -32,8 +32,3 @@ The issue was responsibly reported on **August 5, 2025** in MineFun.io’s offic
 
 - 🏆 **Rewarded:** 300 minebucks  
   ([Severity: Critical](https://discord.com/channels/1242473396818935859/1319321791965040723/1319323191981637652))
-
----
-
-## 🔒 Ethical Note
-This was a responsible disclosure & was reported immediately to the devs.
