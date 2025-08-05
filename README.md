@@ -14,14 +14,15 @@ Using [Homoglyph Attack Generator](https://www.irongeek.com/homoglyph-attack-gen
 Result: `idioΤ` successfully bypassed the profanity filter and was shown publicly in the in-game chat.
 
 ---
-
 ## ✅ Proof & Reward
-A **video proof showing the exact steps** was shared in the [bugs](https://discord.com/channels/1242473396818935859/1402164667966558310/1402171100846227577) channel.  
 Below is a screenshot of the acknowledgment and reward:
+<img src="https://github.com/obitouka/minefun.io-homoglyph-bypass/blob/main/img/proof.png" width="700" />
 
-![screenshot.png](https://github.com/obitouka/minefun.io-homoglyph-bypass/blob/main/img/proof.png)
+A **video proof showing the exact steps** was shared in the [bugs](https://discord.com/channels/1242473396818935859/1402164667966558310/1402171100846227577) channel.  
+<a href="https://github.com/obitouka/minefun.io-homoglyph-bypass/blob/main/video/homoglyph.mp4">
+  <img src="https://github.com/obitouka/minefun.io-homoglyph-bypass/blob/main/img/demo-preview.png" width="200" />
+</a>
 
----
 
 ## 📩 Disclosure
 The issue was responsibly reported on **August 5, 2025** in MineFun.io’s official Discord `#bugs` channel.
