@@ -13,13 +13,13 @@ Using [Homoglyph Attack Generator](https://www.irongeek.com/homoglyph-attack-gen
 
 ---
 
-## ✅ Proof & Reward
-Screenshot of the acknowledgment:  
+## 📸 Proof & Reward
+**Screenshot** of the acknowledgment:  
 <img src="https://github.com/obitouka/minefun.io-homoglyph-bypass/blob/main/img/proof.png" width="700" />
 
 **Video proof** showing the exact steps to bypass that was shared in the Discord [bugs](https://discord.com/channels/1242473396818935859/1402164667966558310/1402171100846227577) channel.  
 <a href="https://github.com/obitouka/minefun.io-homoglyph-bypass/blob/main/video/homoglyph.mp4">
-  <img src="https://github.com/obitouka/minefun.io-homoglyph-bypass/blob/main/img/demo-preview.png" width="200" />
+<img src="https://github.com/obitouka/minefun.io-homoglyph-bypass/blob/main/img/demo-preview.png" width="200" />
 </a>
 
 
