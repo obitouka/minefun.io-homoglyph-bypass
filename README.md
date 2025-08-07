@@ -1,24 +1,23 @@
-# Homoglyph Chat Filter Bypass – Responsible Disclosure (MineFun.io)
+# Homoglyph Chat Filter Bypass (MineFun.io)
 ![Topic](https://img.shields.io/badge/Topic-Bug_Bounty-ff0004?style=plastic)
 ![Type](https://img.shields.io/badge/Type-Chat_Filter_Bypass-blue?style=plastic)
 ![Method](https://img.shields.io/badge/Method-Homoglyph-9300FF?style=plastic)
 ![Target](https://img.shields.io/badge/Target-MineFun.io-D3FF00?style=plastic)
 
 
-## 🔍 Summary
-Found a bug in [MineFun.io](https://minefun.io) where offensive words could bypass the chat filter using homoglyphs
+## ✅ Expected Behavior:
+When a user writes a offensive word in [MineFun.io](https://minefun.io) in-game chat, the system blocks it and shows error: `"it's not appropriate for the game."`
 
-## 🧠 What Happened
-Using [Homoglyph Attack Generator](https://www.irongeek.com/homoglyph-attack-generator.php), I changed the word `idiot` into `idioΤ` (Greek capital tau at the end).
-
-Result: `idioΤ` successfully bypassed the profanity filter and was shown publicly in the in-game chat.
+## ❌ Actual Behavior:
+Using [Homoglyph Attack Generator](https://www.irongeek.com/homoglyph-attack-generator.php), I changed the word `idiot` into `idioΤ`(Unicode U+03A4 at the end) and it bypassed  the profanity filter in the in-game chat and showed it publicly
 
 ---
+
 ## ✅ Proof & Reward
-Below is a screenshot of the acknowledgment:
+Screenshot of the acknowledgment:  
 <img src="https://github.com/obitouka/minefun.io-homoglyph-bypass/blob/main/img/proof.png" width="700" />
 
-A **video proof showing the exact steps** that was shared in the Discord [bugs](https://discord.com/channels/1242473396818935859/1402164667966558310/1402171100846227577) channel.  
+**Video proof** showing the exact steps to bypass that was shared in the Discord [bugs](https://discord.com/channels/1242473396818935859/1402164667966558310/1402171100846227577) channel.  
 <a href="https://github.com/obitouka/minefun.io-homoglyph-bypass/blob/main/video/homoglyph.mp4">
   <img src="https://github.com/obitouka/minefun.io-homoglyph-bypass/blob/main/img/demo-preview.png" width="200" />
 </a>
